@@ -50,5 +50,6 @@ For each cell in the grid:
 - **Determinism**: Transitions follow explicit rules, resembling a DFA, but stochastic elements (e.g., lightning) introduce non-determinism akin to an NFA.
 
 ---
+![gif](/output.gif)
 
 This model demonstrates how simple local rules and state transitions can simulate complex emergent behavior, mirroring finite automaton principles.
